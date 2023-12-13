@@ -1,4 +1,4 @@
-Sample projecto to show the wrong behavior while trying to update the CollectionView header using NET Maui v8.
+Sample project to show the wrong behavior while trying to update the CollectionView header using NET Maui v8.
 
 This is the app working as expected on Android:
 
@@ -10,4 +10,4 @@ but it doesn't change on iOS:
 
 | iOS |
 | ------------- |
-| <video src="https://github.com/dotnet/maui/assets/43689290/836d60bb-b9bd-4657-b2b7-47ecb74fa73c" width=180 height=392> |
+| <video src="https://github.com/juniorsaraviao/MauiSample8/assets/43689290/41e2ae8b-92c6-47b4-8e39-0b5e030ba8ec" width=180 height=392> |
